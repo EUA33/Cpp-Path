@@ -4,9 +4,10 @@
 /*
 
 /-----------------------------------------------------------------------------------\
-| Created By EUA33 To help Him create some code faster , Hope it Help Using it.     |
+| Created By IAA03 To help Him create some code faster , Hope it Help Using it.     |
 |																					|
-|GitHub :https://github.com/EUA33/													|
+|GitHub :https://github.com/IAA03/													|
+|Twitter :https://twitter.com/_IAA03?s=09											|
 \-----------------------------------------------------------------------------------/
 
 */
